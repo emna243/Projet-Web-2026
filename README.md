@@ -1,2 +1,2 @@
-#Projet Web 2026
+# Projet Web 2026
 Hello everyone :)
